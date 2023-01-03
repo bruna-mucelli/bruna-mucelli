@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 ### Contatos
 <div>
-  <a href="mwww.linkedin.com/in/bruna-lütkenhaus-mucelli" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bo8W9GojbQUGY6%2F%2BOH2K7LA%3D%3D" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
   <a margin="2em" href="mailto:brunalmucelli@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
 </div>
