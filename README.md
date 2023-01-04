@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Eii, tudo bom? Sou Bruna Mucelli!
 
 <div>
-  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=bruna-mucelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-mucelli&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=brunalmucelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunalmucelli&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ##
